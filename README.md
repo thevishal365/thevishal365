@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="mailto:vishaltenet@gmail.com">Email</a> ·
-  <a href="https://x.com/thevishal365">X</a> ·
-  <a href="https://thevishal365.netlify.app/">Portfolio</a>
+  <a href="https://x.com/thevishal365">X</a>
 </p>
 
 ---
