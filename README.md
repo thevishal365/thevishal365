@@ -7,6 +7,7 @@
 <p align="center">
   <a href="mailto:vishaltenet@gmail.com">Email</a> ·
   <a href="https://x.com/thevishal365">X</a>
+  <a href="https://thevishal365.netlify.app/">Portfolio</a>
 </p>
 
 ---
@@ -32,7 +33,12 @@ I enjoy exploring GenAI, digital tools, automation, and vibe coding. I like taki
 
 ## Tools I use
 
-`VS Code` `Cursor` `Antigravity` `Git` `GitHub` `Supabase` `Netlify`
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)](https://cursor.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/thevishal365)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ## Connect
 
