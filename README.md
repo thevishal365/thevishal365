@@ -4,11 +4,6 @@
   Lab Technologist · Tech Enthusiast
 </p>
 
-<p align="center">
-  <a href="mailto:vishaltenet@gmail.com">Email</a> ·
-  <a href="https://x.com/thevishal365">X</a>
-</p>
-
 ---
 
 I have a background in Medical Laboratory Technology and a strong curiosity about technology.
