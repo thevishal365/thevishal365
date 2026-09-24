@@ -24,6 +24,7 @@ I enjoy exploring GenAI, digital tools, automation, and vibe coding. I like taki
 |---|---|---|
 | [Paperlytic](https://github.com/thevishal365/Paperlytic) | An academic paper aggregation system | TypeScript, JavaScript, CSS |
 | [Scanora](https://github.com/thevishal365/Scanora) | An AI-powered tool for understanding medical report images | JavaScript, Python, CSS, HTML |
+| [GPTase Detector](https://github.com/thevishal365/GPTase-Detector) | An AI-powered tool for detecting AI-generated text | TypeScript, Python, Next.js, FastAPI |
 
 ## Tools I use
 
