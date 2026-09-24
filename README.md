@@ -20,11 +20,11 @@ I enjoy exploring GenAI, digital tools, automation, and vibe coding. I like taki
 
 ## Work
 
-| Project | What it does | Stack |
+| Project | What it does | Technologies Used |
 |---|---|---|
-| [Paperlytic](https://github.com/thevishal365/Paperlytic) | An academic paper aggregation system | TypeScript, JavaScript, CSS |
-| [Scanora](https://github.com/thevishal365/Scanora) | An AI-powered tool for understanding medical report images | JavaScript, Python, CSS, HTML |
-| [GPTase Detector](https://github.com/thevishal365/GPTase-Detector) | An AI-powered tool for detecting AI-generated text | TypeScript, Python, Next.js, FastAPI |
+| [Paperlytic](https://github.com/thevishal365/Paperlytic) | An academic research indexing platform that automatically collects and organizes newly published papers from Crossref. Search by title or journal, explore filtered results, and access papers directly via DOI links. | React, TypeScript, Supabase, Crossref |
+| [Scanora](https://github.com/thevishal365/Scanora) | An AI-powered medical report understanding tool that analyzes uploaded reports and highlights attention-worthy findings. Users can explore explanations and ask questions about their reports using Google Gemini. | React, Vite, Tailwind CSS, FastAPI, Gemini |
+| [GPTase Detector](https://github.com/thevishal365/GPTase-Detector) | An AI-powered text detector that analyzes writing with a ModernBERT classifier and estimates whether it shows signals associated with AI-generated writing. Results are presented as probabilistic estimates, not proof of authorship. | Next.js, TypeScript, FastAPI, Python, ModernBERT |
 
 ## Tools I use
 
