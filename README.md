@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vishal Kumar</h1>
 
 <p align="center">
-  Lab Technologist · Tech Enthusiast
+  Tech Enthusiast
 </p>
 
 ---
