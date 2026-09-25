@@ -13,7 +13,6 @@ I enjoy exploring GenAI, digital tools, automation, and vibe coding. I like taki
 ## Current focus
 
 - Generative AI and AI powered tools
-- Health technology and healthcare applications
 - Automation and digital workflows
 - Vibe coding and rapid prototyping
 - Building practical software projects
