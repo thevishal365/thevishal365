@@ -22,7 +22,7 @@ I enjoy exploring GenAI, digital tools, automation, and vibe coding. I like taki
 | Project | What it does | Technologies Used |
 |---|---|---|
 | [Paperlytic](https://github.com/thevishal365/Paperlytic) | An academic research indexing platform that automatically collects and organizes newly published papers from Crossref. Search by title or journal, explore filtered results, and access papers directly via DOI links. | React, TypeScript, Supabase, Crossref |
-| [Scanora](https://github.com/thevishal365/Scanora) | An AI-powered medical report understanding tool that analyzes uploaded reports and highlights attention-worthy findings. Users can explore explanations and ask questions about their reports using Google Gemini. | React, Vite, Tailwind CSS, FastAPI, Gemini |
+| [Scanora](https://github.com/thevishal365/Scanora) | An AI-powered medical report understanding tool that analyzes uploaded reports and highlights attention-worthy findings. Users can explore explanations and ask questions about their reports. | React, Vite, Tailwind CSS, FastAPI, Gemini |
 
 ## Tools I use
 
